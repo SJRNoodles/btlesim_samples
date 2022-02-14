@@ -12,14 +12,14 @@
     "m2":{
       "name":"fire",
       "type":"attack",
-      "dmg":800,
-      "crit_chance":5
+      "dmg":2000,
+      "crit_chance":3
     },
     "m3":{
       "name":"ember",
       "type":"attack",
       "dmg":650,
-      "crit_chance":2
+      "crit_chance":3
     } 
   }
 }
