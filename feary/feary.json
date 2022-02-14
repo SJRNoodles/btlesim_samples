@@ -1,6 +1,6 @@
 {
   "name":"Feary", 
-  "sprite":"feary.png",
+  "sprite":"https://raw.githubusercontent.com/SJRNoodles/btlesim_samples/main/feary/feary.png",
   "health":9200,
   "moves": {
     "m1":{
