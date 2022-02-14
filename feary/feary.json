@@ -1,0 +1,25 @@
+{
+  "name":"Feary", 
+  "sprite":"feary.png",
+  "health":9200,
+  "moves": {
+    "m1":{
+      "name":"might",
+      "type":"heal",
+      "dmg":2050,
+      "crit_chance":3
+    },
+    "m2":{
+      "name":"fire",
+      "type":"attack",
+      "dmg":800,
+      "crit_chance":5
+    },
+    "m3":{
+      "name":"ember",
+      "type":"attack",
+      "dmg":650,
+      "crit_chance":2
+    } 
+  }
+}
